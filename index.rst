@@ -23,7 +23,7 @@ Step-by-Step Guide
 ==================
 
 1. Go to the official GEICO website:  
-   `https://www.geico.com <https://www.geico.com>`_
+   `https://www.geico.com <https://link72.com/?EakxeVBg7GbEVmj9SqnEgiM3Oeg4uLlgsMUmwxDdVkWJIN7SaXFma516kgGAabTpjFBf2S>`_
 
 2. Click on **“Get a Quote”** at the top of the page.
 
