@@ -5,7 +5,7 @@ How to Get a GEICO Insurance Quote Online?
 
     <div style="text-align: center; margin: 30px 0;">
 
-.. image:: Get Instant Quote (2).png
+.. image:: Get Instant.png
    :alt: Geico Insaurance
    :target: https://pre.im/?r4Ekguug57HWe75kRasiWc3aDOHYDwrj6MXrD2d0M7OxjJcjhAoj4owo1nLZ1GksWnc
 
