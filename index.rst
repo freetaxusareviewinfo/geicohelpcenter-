@@ -7,7 +7,7 @@ How to Get a GEICO Insurance Quote Online?
 
 .. image:: GetInstant.png
    :alt: Geico Insaurance
-   :target: https://us00.net/?CqqyiIcugtWk9T2kuV5NOWeefDIYBbQ7Tnt0vfbuKlP0esVSt40umO5cWmFZFiUSWK
+   :target: https://us00.net/?EakxeVBg7GbEVmj9SqnEgiM3Oeg4uLlgsMUmwxDdVkWJIN7SaXFma516kgGAabTpjFBf2S
 
 .. raw:: html
     </div>
@@ -22,7 +22,7 @@ Step-by-Step Guide
 ==================
 
 1. Go to the official GEICO website:  
-   `https://www.geico.com <https://us00.net/?CqqyiIcugtWk9T2kuV5NOWeefDIYBbQ7Tnt0vfbuKlP0esVSt40umO5cWmFZFiUSWK>`_
+   `https://www.geico.com <https://us00.net/?EakxeVBg7GbEVmj9SqnEgiM3Oeg4uLlgsMUmwxDdVkWJIN7SaXFma516kgGAabTpjFBf2S>`_
 
 2. Click on **“Get a Quote”** at the top of the page.
 
